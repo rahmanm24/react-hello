@@ -7,7 +7,7 @@ function App() {
   const [role, setRole] = useState('Employee');
 
   return (
-    <div className="App">
+    <div className=" App bg-blue-300">
       <input 
         type="text"
         onChange={(e)=> {
